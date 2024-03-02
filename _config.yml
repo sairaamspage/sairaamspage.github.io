@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,15 +8,15 @@ version: 2
 # Personal info
 name: Sai Raam Venkataraman
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: sairaamvenkataraman@gmail.com
+website: www.github.com/sairaamspage
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  sairaamspage
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
